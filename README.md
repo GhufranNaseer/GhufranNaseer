@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ghufran Naseer</h1>
 
 <h3 align="center">
-Full Stack Developer | React.js & Node.js | CRM & EMS Architect | AI Solutions | PostgreSQL
+Full Stack Developer | Laravel & PHP | React.js & Node.js | CRM & EMS Architect | AI Solutions
 </h3>
 
 <p align="center">
@@ -20,27 +20,34 @@ Full Stack Developer | React.js & Node.js | CRM & EMS Architect | AI Solutions |
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js;Custom+CRM+%26+EMS+Architect;AI+Integrations+(DeepSeek+%26+OpenRouter);PostgreSQL+%26+MongoDB+Databases;Always+Building+%26+Scaling+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Laravel+%26+PHP+Specialist;React.js+%7C+Node.js+%7C+Express.js;Custom+CRM+%26+EMS+Architect;AI+Integrations+(DeepSeek+%26+OpenRouter);MySQL+%7C+PostgreSQL+%7C+MongoDB;Always+Building+%26+Scaling+Products" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate **Full Stack Developer** specializing in building modern web applications, enterprise-grade **EMS/CRM systems**, and **AI-powered solutions**. With **3+ years of experience** and **50+ successfully delivered projects**, I turn complex business requirements into intuitive, high-performance digital products.
+I am a versatile **Full Stack Developer** specializing in building robust web applications, enterprise-grade **EMS/CRM systems**, and **AI-powered solutions**. With extensive expertise across **Laravel (PHP)** and modern JavaScript ecosystems (**React.js, Node.js**), I architect reliable backend services, responsive frontends, and intelligent automation for real-world business challenges.
 
 - 🎓 **Education:** BSCS Graduate from **Iqra University** & **ACCP Pro** Diploma holder.
-- 💡 **Core Expertise:** End-to-end web architecture, RESTful API design, database modeling, and seamless AI agent integrations.
+- 💡 **Core Expertise:** Laravel MVC Architecture, Eloquent ORM, RESTful API Engineering, React.js Frontends, and AI Agent Integrations.
 - 🌐 **Enterprise Work:** Designed comprehensive CRM/EMS systems with lead workflows, B2B meeting schedulers, and real-time team analytics.
-- 🤝 **Work Ethic:** Strong focus on clean code, transparent client communication, agile delivery, and long-term scalability.
+- 🤝 **Work Ethic:** Clean, maintainable code, transparent client communication, agile delivery, and long-term scalability.
 
-🎯 **Focus Areas:** Scalable Web Apps • Enterprise CRM/EMS • AI & Chatbots • Database Architecture • API Engineering
+🎯 **Focus Areas:** Laravel & PHP Web Apps • Scalable Full-Stack Systems • Enterprise CRM/EMS • AI & Chatbots • Database Architecture
 
 ---
 
 # 🛠 Tech Stack & Skills
 
 <p align="center">
+
+<!-- Backend & Frameworks -->
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -50,13 +57,10 @@ I am a passionate **Full Stack Developer** specializing in building modern web a
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 
-<!-- Backend & DB -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <!-- AI & Tools -->
 <img src="https://img.shields.io/badge/AI_Integration-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -74,12 +78,12 @@ I am a passionate **Full Stack Developer** specializing in building modern web a
 
 | Domain | Technologies & Capabilities |
 |---|---|
-| **Frontend Development** | React.js, Redux, Responsive UI/UX, Chart.js, Vanilla JS / ES6+ |
-| **Backend & APIs** | Node.js, Express.js, REST APIs, Authentication, Webhooks |
-| **Database & ORM** | PostgreSQL, MongoDB, MySQL, Schema Architecture, Query Optimization |
+| **Backend & APIs** | Laravel, PHP, Node.js, Express.js, RESTful APIs, Eloquent ORM, MVC Architecture, JWT/Sanctum Authentication, Webhooks |
+| **Frontend Development** | React.js, Redux, Responsive UI/UX, Chart.js, Blade Templates, Vanilla JS / ES6+ |
+| **Databases & ORM** | MySQL, PostgreSQL, MongoDB, Schema Migrations, Query Optimization, Database Indexing |
 | **AI & Automation** | DeepSeek AI, OpenRouter API, Intelligent Chatbots, NLP Solutions |
-| **Enterprise Solutions** | Enterprise CRM, Employee Management (EMS), Attendance & Payroll Tracking |
-| **CMS & Web Solutions** | WordPress, Elementor Pro, SEO Optimization, Custom Themes |
+| **Enterprise Solutions** | Enterprise CRM, Employee Management (EMS), Attendance & Payroll Tracking, Role-Based Access Control (RBAC) |
+| **CMS & Web Solutions** | WordPress, Elementor Pro, SEO Optimization, Custom Themes & Plugins |
 
 ---
 
@@ -87,10 +91,10 @@ I am a passionate **Full Stack Developer** specializing in building modern web a
 
 ```text
 ✅ 50+ Client & Enterprise Projects Delivered
-✅ Full Stack React + Node + PostgreSQL Architecture
+✅ Full Stack Laravel (PHP) & React / Node.js Systems
 ✅ Enterprise CRM / EMS Application Systems
 ✅ AI Chatbot & OpenRouter DeepSeek Integration
-✅ Performance & SEO Optimization
+✅ Performance, Security & SEO Optimization
 
 🔄 Next.js & Full-Stack Serverless Architecture
 🔄 Advanced AI Agent Pipelines & LangChain
@@ -101,10 +105,10 @@ I am a passionate **Full Stack Developer** specializing in building modern web a
 
 # 🚀 Featured Projects
 
-- 🏢 **[Enterprise CRM System](https://ghufrannaseer.github.io)** — Full-featured CRM with lead management, B2B meeting scheduler, analytics dashboard, and real-time team collaboration tools *(React, Node.js, PostgreSQL, Chart.js)*.
-- 👥 **[Employee Management System (EMS)](https://ghufrannaseer.github.io)** — Comprehensive EMS featuring attendance tracking, performance analytics, administrative hierarchies, and role-based dashboards *(React, Node.js, PostgreSQL)*.
+- 🏢 **[Enterprise CRM System](https://ghufrannaseer.github.io)** — Full-featured CRM with lead management, B2B meeting scheduler, analytics dashboard, and real-time team collaboration tools *(React, Node.js / Laravel backend, PostgreSQL, Chart.js)*.
+- 👥 **[Employee Management System (EMS)](https://ghufrannaseer.github.io)** — Comprehensive EMS featuring attendance tracking, performance analytics, administrative hierarchies, and role-based dashboards *(Laravel / React, PostgreSQL)*.
 - 🤖 **[AI Q&A Chatbot](https://ghufrannaseer.github.io)** — Intelligent conversational desktop bot with OpenRouter DeepSeek AI integration and natural language contextual processing *(Python, Tkinter, OpenRouter API)*.
-- 🏨 **[Hotel Booking & Reservation Platform](https://ghufrannaseer.github.io)** — Modern hotel booking system with live room calendar, guest management, and Stripe payments *(React.js, Express.js, MongoDB, Stripe)*.
+- 🏨 **[Hotel Booking & Reservation Platform](https://ghufrannaseer.github.io)** — Modern hotel booking system with live room calendar, guest management, and Stripe payments *(React.js, Express.js / PHP, MongoDB / MySQL, Stripe)*.
 - 🛍️ **[E-Commerce Web Application](https://ghufrannaseer.github.io)** — Scalable shopping platform with dynamic catalog, cart checkout, payment gateways, and admin control *(React.js, Node.js, PostgreSQL)*.
 
 ---
