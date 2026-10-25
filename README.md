@@ -4,24 +4,52 @@
 Full Stack Developer | Laravel & PHP | React.js & Node.js | CRM & EMS Architect | AI Solutions
 </h3>
 
+<!-- Eye-Catching Live Portfolio Callout Banner -->
+<p align="center">
+  <a href="https://ghufrannaseer.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_EXPLORE_MY_LIVE_PORTFOLIO-ghufrannaseer.github.io-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" height="42" alt="Live Portfolio Website"/>
+  </a>
+</p>
+
+<!-- Social & Contact Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ghufran-naseer/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://ghufrannaseer.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://wa.me/447348948065">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="mailto:me.ghufrannaseer@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://wa.me/447348948065">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="https://ghufrannaseer.github.io">
+    <img src="https://img.shields.io/badge/Live_Site-Visit%20Website-10B981?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
   </a>
 </p>
 
+<!-- Dynamic Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Laravel+%26+PHP+Specialist;React.js+%7C+Node.js+%7C+Express.js;Custom+CRM+%26+EMS+Architect;AI+Integrations+(DeepSeek+%26+OpenRouter);MySQL+%7C+PostgreSQL+%7C+MongoDB;Always+Building+%26+Scaling+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Laravel+%26+PHP+Specialist;React.js+%7C+Node.js+%7C+Express.js;Explore+Live+Portfolio+%40+ghufrannaseer.github.io;Custom+CRM+%26+EMS+Architect;AI+Integrations+(DeepSeek+%26+OpenRouter);Always+Building+%26+Scaling+Products" alt="Typing SVG" />
 </p>
+
+---
+
+<!-- Eye-Catching Portfolio Feature Card -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="700">
+        <h3>🚀 Explore My Interactive Portfolio Website</h3>
+        <p><b>50+ Completed Projects • Live Web Demos • Client Reviews • Direct Booking</b></p>
+        <a href="https://ghufrannaseer.github.io" target="_blank">
+          <img src="https://img.shields.io/badge/⚡_LAUNCH_PORTFOLIO_WEBSITE-ghufrannaseer.github.io-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="Launch Website"/>
+        </a>
+        <br/><br/>
+        <code>🔗 Direct Link:</code> <b><a href="https://ghufrannaseer.github.io">https://ghufrannaseer.github.io</a></b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -105,6 +133,8 @@ I am a versatile **Full Stack Developer** specializing in building robust web ap
 
 # 🚀 Featured Projects
 
+> 💡 *Check out live demos and in-depth details on [ghufrannaseer.github.io](https://ghufrannaseer.github.io)*
+
 - 🏢 **[Enterprise CRM System](https://ghufrannaseer.github.io)** — Full-featured CRM with lead management, B2B meeting scheduler, analytics dashboard, and real-time team collaboration tools *(React, Node.js / Laravel backend, PostgreSQL, Chart.js)*.
 - 👥 **[Employee Management System (EMS)](https://ghufrannaseer.github.io)** — Comprehensive EMS featuring attendance tracking, performance analytics, administrative hierarchies, and role-based dashboards *(Laravel / React, PostgreSQL)*.
 - 🤖 **[AI Q&A Chatbot](https://ghufrannaseer.github.io)** — Intelligent conversational desktop bot with OpenRouter DeepSeek AI integration and natural language contextual processing *(Python, Tkinter, OpenRouter API)*.
@@ -132,11 +162,11 @@ I am a versatile **Full Stack Developer** specializing in building robust web ap
 # 📫 Connect With Me
 
 <p align="center">
+  <a href="https://ghufrannaseer.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/ghufran-naseer/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://ghufrannaseer.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome" alt="Portfolio"/>
   </a>
   <a href="https://wa.me/447348948065">
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
